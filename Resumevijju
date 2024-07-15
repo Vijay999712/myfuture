@@ -1,15 +1,38 @@
-my name is kaatrey
-my istam
-lavada nuvu evaru
-
-
-
-Dengey ra ungamma
-preethyyy
-
-
-Hello guys
-
-MG RA POOKA
-
-successfull
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Design</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Website</h1>
+        <p>This is a basic example of HTML code with some simple design elements and text. You can customize and expand upon it as needed for your own projects.</p>
+    </div>
+</body>
+</html>
